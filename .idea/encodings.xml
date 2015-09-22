@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/star_namu/androidgcmdemo_1/MyGcmListenerService.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/star_namu/androidgcmdemo_1/MyInstanceIDListenerService.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/star_namu/androidgcmdemo_1/QuickstartPreferences.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/star_namu/androidgcmdemo_1/RegistrationIntentService.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_stat_ic_notification.png" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
